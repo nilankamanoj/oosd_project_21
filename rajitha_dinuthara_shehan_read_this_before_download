@@ -1,0 +1,25 @@
+open terminal 
+
+only one time{
+
+	git config --global user.email "you@example.com"
+
+	git config --global user.name "Your Name
+
+	git clone https://github.com/nilankamanoj/oosd_project_21
+	
+	go in to the folder 
+	
+	git init
+
+	}
+
+to download changes
+	
+	git pull
+
+
+
+
+
+
